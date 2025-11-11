@@ -30,9 +30,14 @@ func main() {
 
 	// 2d array
 
-	nums := [2][2]int{{3,4},{5,4}}
+	// nums := [2][2]int{{3,4},{5,4}}
 
-	fmt.Println(nums)
+	// fmt.Println(nums)
+
+	// - fixed size, that is predictable
+	// - Memory optimization
+	// - Constant time access
+	
 
 
 }
